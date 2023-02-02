@@ -5,6 +5,7 @@ Flight ticket prices are difficult to predict as they flucatuate from one day to
 The dataset is available at: https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh?resource=download
 
 Size of training set: 10683 records
+
 Size of test set: 2671 records
 
 Use cases:
